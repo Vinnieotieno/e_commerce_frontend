@@ -1,0 +1,10 @@
+body{background-blend-mode:safari ;
+    background-color:darkorchid;
+              }
+form{background-color:rgba(3, 25, 27, 0.404);}
+nav{font-family:Ubuntu;font-size:larger;}
+table{align:center; background-color:white; 40px;height:25px;max-resolution: 5px;border-color:solid black;padding: 5px;}
+
+h1,h3{ color:solid black;}
+h4{color: rgb(50, 204, 119);}
+nav{color:aqua;}
